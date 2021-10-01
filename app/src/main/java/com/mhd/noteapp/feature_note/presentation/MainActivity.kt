@@ -1,4 +1,4 @@
-package com.mhd.noteapp
+package com.mhd.noteapp.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
